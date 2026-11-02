@@ -51,10 +51,22 @@ d)	Steps to Clean Up (Terminate the Instance)
 Snap Shots:
  
 
-Snap Shot 1: Simple Storage Service (S3)
- 
 
-Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
+<img width="1920" height="1080" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/012097d8-d914-4a6d-a18a-b7e29201c38b" />
+
+<img width="1920" height="1080" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/817c9b40-a003-4313-8251-f450be438312" />
+
+<img width="1920" height="1080" alt="Screenshot (383)" src="https://github.com/user-attachments/assets/1a81c411-c4ed-4ce0-9348-0406630beeb5" />
+
+<img width="1920" height="1080" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/5e7960ce-4757-4543-9ac4-d283fbe1177e" />
+
+<img width="1920" height="1080" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/4d0a0291-b148-4a76-89a6-471d75f0ee32" />
+
+<img width="1920" height="1080" alt="Screenshot (408)" src="https://github.com/user-attachments/assets/d1379147-bee3-4d20-9ade-64a355315bfe" />
+
+<img width="1920" height="1080" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/6e278df8-c1f8-4976-9d69-a983c2fb0b64" />
+
+<img width="1920" height="1080" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/01a0d52e-8a4e-47f2-8772-ca5ee421955a" />
 
 
 
